@@ -1,3 +1,11 @@
+This is my First Public use Free To use VRC prefab, this vending mechine has over 40 custom animations alogn with 48 custom made cans with memes and jokes on the lable.
+
+You can customise the can lables as you like just download the template from the github and edit images and then change the mat of each can you like side of the can mats folder. Everything will automaticaly update on the mechine as long as you change the mat and dont make a new one. you dont need to edit anything inside the script at all, everything is done for you, there is a limit of 48 cans per mechine and they are fully networked so everyone can see what can you are picking as well as the animation for getting the can as well, feel free to message me on discord if something breaks or if you get stuck
+
+Discord:
+BassBoostedDuck
+
+
 I've had to split the files into two smaller files as otherwise github wont let me upload the files. when opening them up please use winrar and make sure you have both of the files downloaded, if you have both of them winrar can extract from both of the files at the same time. if you do it this way everything should work, sorry for being complicated.
 
  
