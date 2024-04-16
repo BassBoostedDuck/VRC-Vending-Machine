@@ -16,3 +16,8 @@ https://drive.google.com/file/d/1HrqMRZAvViSKSOaxXdppVnl2nSHibkOK/view?usp=shari
 ![image](https://github.com/BassBoostedDuck/VRC-Venchine-Mechine/assets/69443247/64a03a2b-86bb-4b78-9d99-fc7cf7d79da4)
 ![image](https://github.com/BassBoostedDuck/VRC-Venchine-Mechine/assets/69443247/8985b6f6-ebb5-46dc-8795-42c98dffdca2)
 
+
+
+TEXTURES LOW QUALITY? 
+After exporting you can decompress the images to make them larger as i had to compress them alot to make the file size smaller, some are more compressed then others but they can all go up to 2000 compression however most of them are on 250 compression. IF YOU DONT KNOW HOW TO DO THIS PLEASE CONTACT ME ON DISCORD!!
+
