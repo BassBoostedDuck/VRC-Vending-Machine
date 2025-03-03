@@ -6,9 +6,9 @@ Discord:
 BassBoostedDuck1
 (please do not message my old discord account as it has been hacked and taken over by scammers i will never ask you for money to fix a bug for this project, do not be fooled)
 
+![VRChat_2025-03-03_10-50-01 310_1080x1920](https://github.com/user-attachments/assets/eb673786-9205-44f7-940b-e0ca986be5f0)
 ![VRChat_2025-03-03_10-49-49 497_1080x1920](https://github.com/user-attachments/assets/a6fd9c1c-82bd-4ca0-b6f4-6771d44a2d36)
 ![VRChat_2025-03-03_10-49-17 058_1920x1080](https://github.com/user-attachments/assets/94cfab6c-965c-4aaa-a557-bfe210bfa8c8)
-![VRChat_2025-03-03_10-50-01 310_1080x1920](https://github.com/user-attachments/assets/eb673786-9205-44f7-940b-e0ca986be5f0)
 
 
  
