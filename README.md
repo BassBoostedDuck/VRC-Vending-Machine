@@ -4,6 +4,7 @@ You can customise the can lables as you like just download the template from the
 
 Discord:
 blueduck1101
+
 ![image](https://github.com/user-attachments/assets/8bca0b92-8487-43e5-81ff-96b14b35bd25)
 
 (please do not message my old discord account as it has been hacked and taken over by scammers i will never ask you for money to fix a bug for this project, do not be fooled)
