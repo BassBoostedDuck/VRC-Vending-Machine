@@ -6,16 +6,14 @@ Discord:
 BassBoostedDuck1
 (please do not message my old discord account as it has been hacked and taken over by scammers i will never ask you for money to fix a bug for this project, do not be fooled)
 
+![VRChat_2025-03-03_10-49-49 497_1080x1920](https://github.com/user-attachments/assets/a6fd9c1c-82bd-4ca0-b6f4-6771d44a2d36)
+![VRChat_2025-03-03_10-49-17 058_1920x1080](https://github.com/user-attachments/assets/94cfab6c-965c-4aaa-a557-bfe210bfa8c8)
+![VRChat_2025-03-03_10-50-01 310_1080x1920](https://github.com/user-attachments/assets/eb673786-9205-44f7-940b-e0ca986be5f0)
 
-I've had to split the files into two smaller files as otherwise github wont let me upload the files. when opening them up please use winrar and make sure you have both of the files downloaded, if you have both of them winrar can extract from both of the files at the same time. if you do it this way everything should work, sorry for being complicated.
 
  
-ether that or download it from my google drive here:
 
-https://drive.google.com/file/d/1HrqMRZAvViSKSOaxXdppVnl2nSHibkOK/view?usp=sharing
 
-![image](https://github.com/BassBoostedDuck/VRC-Venchine-Mechine/assets/69443247/64a03a2b-86bb-4b78-9d99-fc7cf7d79da4)
-![image](https://github.com/BassBoostedDuck/VRC-Venchine-Mechine/assets/69443247/8985b6f6-ebb5-46dc-8795-42c98dffdca2)
 
 
 
